@@ -1,0 +1,3 @@
+[submodule "Youtubeフィルタ Extension/extension"]
+	path = Youtubeフィルタ Extension/extension
+	url = https://github.com/lvnkae/youtube-filter.git
